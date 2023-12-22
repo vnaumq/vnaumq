@@ -40,7 +40,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnaumq&layout=donut-vertical)](https://github.com/vnaumq/github-readme-stats)
+
 
 
 
