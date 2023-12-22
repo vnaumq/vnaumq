@@ -7,6 +7,8 @@
   :suspect::godmode::hurtrealbad::rage1::rage2::rage3::rage4::feelsgood::finnadie::goberserk:
 
 ---
+
+  ## ABOUT ME 
   
 - 👋 Hi, I’m @vnaumq   :octocat: 
 - 👀 I’m interested in analytics
@@ -15,6 +17,8 @@
 - 🌎 Google Data Analytics Certificate 
 
 ---
+
+## SOCIAL
 
 ▶️ [Linkedin](https://www.linkedin.com/in/uladzimir-naumovich-44b92b297)
 
