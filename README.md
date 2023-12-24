@@ -49,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://img.icons8.com/?size=256&id=Ign0QG33bZzq&format=png" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
