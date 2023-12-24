@@ -10,11 +10,11 @@
 
   ## ABOUT ME 
   
-- 👋 Hi, I’m @vnaumq   :octocat: 
+- 👋 Hi, I’m **vnaumq**   :octocat: 
 - 👀 I’m interested in analytics
 - 🌱 I’m currently learning analytics
 - ✉️ My mail Vnaumovich123@gmail.com
-- 🌎 Google Data Analytics Certificate 
+- 🌎 [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/MKS54SYM9FSD?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
 ---
 
