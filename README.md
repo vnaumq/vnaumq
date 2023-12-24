@@ -13,7 +13,7 @@
 - 👋 Hi, I’m @vnaumq   :octocat: 
 - 👀 I’m interested in analytics
 - 🌱 I’m currently learning analytics
-- ✉️ My mail vnaumovich123@gmail.com
+- ✉️ My mail Vnaumovich123@gmail.com
 - 🌎 Google Data Analytics Certificate 
 
 ---
