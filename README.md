@@ -1,15 +1,21 @@
 
 ![фон_для_профиля_Data_analytics,_минималистичный,_темные_цввета,_красивое_сочетание_цветов,_без_текста_и_надписей,_1024x402](https://github.com/vnaumq/vnaumq/assets/147442501/dad99301-6764-43e7-b6e1-6a01f8f2b1b7)
 
----
-
-  :suspect::godmode::hurtrealbad::rage1::rage2::rage3::rage4::feelsgood::finnadie::goberserk:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnaumq&label=Profile%20views&color=0e75b6&style=flat" alt="vnaumq" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+---
+
+  :suspect::godmode::hurtrealbad::rage1::rage2::rage3::rage4::feelsgood::finnadie::goberserk:
+
+
+
 
 ---
+
+
+
 
   ## ABOUT ME 
   
