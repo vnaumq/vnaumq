@@ -5,6 +5,10 @@
 
   :suspect::godmode::hurtrealbad::rage1::rage2::rage3::rage4::feelsgood::finnadie::goberserk:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vnaumq&label=Profile%20views&color=0e75b6&style=flat" alt="vnaumq" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 ---
 
   ## ABOUT ME 
