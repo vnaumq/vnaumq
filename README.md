@@ -57,7 +57,6 @@ I am a Data Analyst from Belarus, Minsk.
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="num" alt="num" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="mark" alt="mark" width="40" height="40"/>&nbsp
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="mat" alt="mat" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="exc" alt="exc" width="40" height="40"/>&nbsp;
 </div>
 
 ---
