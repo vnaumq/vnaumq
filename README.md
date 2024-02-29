@@ -19,9 +19,10 @@
 
   ## ABOUT ME 
   
-- 👋 Hi, I’m **vnaumq**   :octocat: 
-- 👀 I’m interested in analytics
-- 🌱 I’m currently learning analytics
+- :octocat:  Love working with data.  
+- 🌱 I like to learn new things and do self-study.
+- ⚡ In my free time, I complete projects and take courses.
+- :coffee: My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vladimir.naumovich/vizzes) dashboards.
 - ✉️ My mail Vnaumovich123@gmail.com
 - 🌎 [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/MKS54SYM9FSD?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
