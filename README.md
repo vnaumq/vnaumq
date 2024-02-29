@@ -2,22 +2,24 @@
 ![фон_для_профиля_Data_analytics,_минималистичный,_темные_цввета,_красивое_сочетание_цветов,_без_текста_и_надписей,_1024x402](https://github.com/vnaumq/vnaumq/assets/147442501/dad99301-6764-43e7-b6e1-6a01f8f2b1b7)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vnaumq&label=Profile%20views&color=0e75b6&style=flat" alt="vnaumq" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vnaumq&label=Profile%20views&color=0e75b6&style=flat" alt="vnaumq" /> </p>
+
+
+
+
+  
+
+
 
 
 ---
 
-  :suspect::godmode::hurtrealbad::rage1::rage2::rage3::rage4::feelsgood::finnadie::goberserk:
 
 
 
+  ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ABOUT ME 
 
----
-
-
-
-
-  ## ABOUT ME 
+I am a Data Analyst from Belarus, Minsk.
   
 - :octocat:  Love working with data.  
 - 🌱 I like to learn new things and do self-study.
@@ -28,7 +30,7 @@
 
 ---
 
-## SOCIAL
+## :iphone: SOCIAL 
 
 
 
@@ -42,7 +44,7 @@
 
 ---
 
-## Languages and Tools:
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="py" alt="py" width="40" height="40"/>&nbsp
