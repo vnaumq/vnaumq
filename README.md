@@ -19,7 +19,7 @@
 
   ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ABOUT ME 
 
-I am a Data Analyst from Belarus, Minsk.
+I am a Data Engineer from Belarus, Minsk.
   
 - :octocat:  Love working with data.  
 - 🌱 I like to learn new things and do self-study.
