@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vnaumq/vnaumq/assets/147442501/dad99301-6764-43e7-b6e1-6a01f8f2b1b7">
+  <img src="https://github.com/user-attachments/assets/92b1232a-4846-4603-8cc6-02a19022e4bd" width="600" alt="Banner">
 </p>
 
 <p align="center">
