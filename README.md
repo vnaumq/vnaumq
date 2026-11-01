@@ -1,6 +1,6 @@
-# Uladzimir Naumovich
+# Data Engineer
 
-**Data Engineer** · Minsk, Belarus
+**Germany, Berlin**
 
 I design and maintain data pipelines — from ingestion and transformation to storage and the reporting layer on top of it. Mostly Python and SQL, with a bias toward systems that are simple to operate.
 
