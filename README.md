@@ -14,23 +14,7 @@ Data Engineer with 3+ years of experience. I design and maintain data pipelines 
 
 ### Stack
 
-**Languages**
-`Python` · `SQL`
-
-**Data processing**
-`pandas` · `NumPy` · `SQLAlchemy` · `psycopg2` · `Jupyter`
-
-**Databases & storage**
-`PostgreSQL` · `ClickHouse` · `Microsoft SQL Server`
-
-**Orchestration & services**
-`Apache Airflow` · `FastAPI` · `REST APIs` · `Docker` · `Docker Compose`
-
-**BI & visualization**
-`Tableau` · `Tableau Server` · `Power BI` · `Matplotlib`
-
-**Tooling**
-`Git` · `Linux` · `bash`
+`Python` · `SQL` · `pandas` · `NumPy` · `SQLAlchemy` · `psycopg2` · `PostgreSQL` · `ClickHouse` · `Microsoft SQL Server` · `Apache Airflow` · `FastAPI` · `REST APIs` · `Docker` · `Docker Compose` · `Tableau` · `Tableau Server` · `Power BI` · `Matplotlib` · `Jupyter` · `Git` · `Linux` · `bash`
 
 ### Links
 
