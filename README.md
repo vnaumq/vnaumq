@@ -14,7 +14,23 @@ I design and maintain data pipelines — from ingestion and transformation to st
 
 ### Stack
 
-`Python` · `SQL` · `PostgreSQL` · `ClickHouse` · `Airflow` · `Tableau` · `Docker` · `Git`
+**Languages**
+`Python` · `SQL`
+
+**Data processing**
+`pandas` · `NumPy` · `SQLAlchemy` · `psycopg2` · `Jupyter`
+
+**Databases & storage**
+`PostgreSQL` · `ClickHouse` · `Microsoft SQL Server`
+
+**Orchestration & services**
+`Apache Airflow` · `FastAPI` · `REST APIs` · `Docker` · `Docker Compose`
+
+**BI & visualization**
+`Tableau` · `Tableau Server` · `Power BI` · `Matplotlib`
+
+**Tooling**
+`Git` · `Linux` · `bash`
 
 ### Links
 
